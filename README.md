@@ -12,15 +12,15 @@
 
 ---
 
-## 🎯 What I'm focusing on right now
+##  What I'm focusing on right now
 
-- 🔩 **The Full Data Pipeline** — I enjoy the grind of cleaning messy data, performing EDA, and drawing conclusions through statistical inference
-- 🏭 **Industrial Time Series** — Analyzing patterns, detecting anomalies, and forecasting in real industrial environments
-- 📐 **Statistical Rigor** — Using hypothesis testing, regression, and mathematical reasoning to build honest, reproducible analyses
+-  **The Full Data Pipeline** — I enjoy the grind of cleaning messy data, performing EDA, and drawing conclusions through statistical inference
+-  **Industrial Time Series** — Analyzing patterns, detecting anomalies, and forecasting in real industrial environments
+-  **Statistical Rigor** — Using hypothesis testing, regression, and mathematical reasoning to build honest, reproducible analyses
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -41,9 +41,9 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🏭 Industrial Sensor Digital Twin
+###  Industrial Sensor Digital Twin
 > *Anomaly detection and predictive modeling on real industrial sensor data*
 
 Two end-to-end analyses on public industrial datasets — one for a **solar generation plant**, one for a **water treatment facility**.
@@ -57,16 +57,16 @@ Two end-to-end analyses on public industrial datasets — one for a **solar gene
 
 ---
 
-### 📊 The Real Cost of University Grades
+###  The Real Cost of University Grades
 > *Full-scale statistical study on student habits and academic performance — designed, collected, and analyzed from scratch*
 
 A team research project where we surveyed **100 university students** and put 4 popular myths to the test.
 
 **Hypotheses tested (with t-tests, α = 0.05):**
-1. ✅ Students perceive themselves as more stressed than the scale midpoint *(confirmed, p = 0.007)*
-2. ❌ High-performing students sleep less *(not confirmed — they actually sleep slightly more)*
-3. ❌ Top students don't do sports *(not confirmed — sport habits are nearly identical across grade groups)*
-4. ❌ Students who study more consume more stimulant drinks *(not confirmed)*
+1.  Students perceive themselves as more stressed than the scale midpoint *(confirmed, p = 0.007)*
+2.  High-performing students sleep less *(not confirmed — they actually sleep slightly more)*
+3.  Top students don't do sports *(not confirmed — sport habits are nearly identical across grade groups)*
+4.  Students who study more consume more stimulant drinks *(not confirmed)*
 
 **Best regression model:** `grade ~ study_hours + sleep_hours` → R² adj = 0.25
 

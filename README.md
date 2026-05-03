@@ -7,8 +7,7 @@
 *Currently building a rock-solid theoretical foundation while getting my hands dirty with real-world data — from raw sensor noise to actionable insight.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-rodr%C3%ADguez-novalbos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigueznovalbos@proton.me)
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigueznovalbos@proton.me)</div>
 
 ---
 
